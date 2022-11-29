@@ -1,5 +1,8 @@
 # This program will list the files in the Downloads directory, eventually moving files to their relevant destination directories.
 
+# TIP: Google is your friend so use it.
+# You may ask for assistance if you get stuck, but only after you google search the issue and attempt to resolve it yourself first.
+
 # Steps:
 #     1. list files in Downloads directory.
 
