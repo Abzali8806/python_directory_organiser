@@ -2,6 +2,9 @@
 
 # TIP: Google is your friend so use it.
 # You may ask for assistance if you get stuck, but only after you google search the issue and attempt to resolve it yourself first.
+# You need to import a few modules. You'll find the modules you need by searching how to do the tasks.
+# Make sure you add comment explaining your code
+# Once completed share your repo link on the whatsapp group chat
 
 # Steps:
 #     1. list files in Downloads directory.
